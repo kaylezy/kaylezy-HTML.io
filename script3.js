@@ -29,4 +29,4 @@ function divisible(number) {
     }
     console.log(change)
 }
-divisible(10)
+divisible(100)
